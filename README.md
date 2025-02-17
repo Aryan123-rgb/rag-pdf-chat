@@ -19,7 +19,7 @@ A Streamlit-based application that allows users to chat with their PDF documents
 
 1. Clone the repository: 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Aryan123-rgb/rag-pdf-chat.git
 ```
 
 2. Install required packages:
@@ -72,7 +72,3 @@ streamlit run pdf-chat.py
 ## Contributing
 
 Feel free to submit issues, fork the repository, and create pull requests for any improvements.
-
-## License
-
-[Add your chosen license here]
